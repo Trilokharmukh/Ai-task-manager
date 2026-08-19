@@ -1,0 +1,34 @@
+{
+  "tasks": [
+    {
+      "id": "TASK-001",
+      "title": "Create a task",
+      "description": "A user can create a new task.",
+      "status": "completed"
+    },
+    {
+      "id": "TASK-002",
+      "title": "List tasks",
+      "description": "A user can see all created tasks.",
+      "status": "pending"
+    },
+    {
+      "id": "TASK-003",
+      "title": "Complete a task",
+      "description": "A user can mark a task as completed.",
+      "status": "pending"
+    },
+    {
+      "id": "TASK-004",
+      "title": "Delete a task",
+      "description": "A user can delete a task.",
+      "status": "pending"
+    },
+    {
+      "id": "TASK-005",
+      "title": "Filter tasks",
+      "description": "A user can filter tasks by completion status.",
+      "status": "pending"
+    }
+  ]
+}
